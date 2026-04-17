@@ -1,6 +1,6 @@
 # Entra ID Baselines
 
-**Author:** Areeb  
+**Author:** Credit Goes to CISA  
 **Last Updated:** April 2026  
 **Version:** 1.0
 
