@@ -1,7 +1,7 @@
 # Entra ID Baselines
 
-**Author:** Areeb
-**Credits:** CISA
+**Author:** Areeb                                  
+**Credits:** CISA                               
 **Last Updated:** April 2026  
 **Version:** 1.0
 
